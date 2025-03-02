@@ -1,0 +1,7 @@
+review,sentiment,cleaned_review,predicted_sentiment
+I love this product! It's amazing and works perfectly.,positive,love product amazing work perfectly,2
+This is the worst purchase I've ever made. Total waste of money.,negative,worst purchase ive ever made total waste money,2
+"Decent quality, but I expected better.",neutral,decent quality expected better,2
+Absolutely fantastic! Highly recommend to everyone.,positive,absolutely fantastic highly recommend everyone,1
+"Not bad, but could be improved.",neutral,bad could improved,2
+Terrible experience. Will never buy again.,negative,terrible experience never buy,0
